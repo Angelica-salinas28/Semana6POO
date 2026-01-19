@@ -5,3 +5,4 @@ para practicar los conocimiento visto en clases
 con objetivos de implemnatar encapsulacion, herencia y polimorfismo
 con su respectivas carpetas y sus codigos.
 que el proyecto se ejecute en un archivo principal de nombre main.py
+Este proyecto desarrollado en visual studio code
